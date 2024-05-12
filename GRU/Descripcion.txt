@@ -1,0 +1,1 @@
+Arquitecturas GRU con diferentes ventanas de retroceso (1, 3, 5, 7) dias
